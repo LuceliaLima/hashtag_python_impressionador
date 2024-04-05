@@ -1,5 +1,4 @@
-# hashtag_python_impressionador
-## Curso de Python Impressionador - Hashtag
+# Curso de Python Impressionador - Hashtag
 
 
 Sobre o curso:
